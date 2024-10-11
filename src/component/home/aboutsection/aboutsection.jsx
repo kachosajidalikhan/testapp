@@ -67,14 +67,14 @@ export default () => {
           transition={{ duration: 0.5, delay: 0.4 }}
         >
           <motion.img
-            src="/whyimg1.PNG"
+            src="https://venulink.org/assets/whyimg1.png"
             alt="Live music performance"
             className="rounded-lg shadow-lg max-w-full h-auto"
             whileHover={{ scale: 1.05 }}
             transition={{ duration: 0.3 }}
           />
           <motion.img
-            src="/whyimg2.PNG"
+            src="https://venulink.org/assets/whyimg2.png"
             alt="Another live music performance"
             className="rounded-lg shadow-lg max-w-full h-auto absolute top-1/4 left-1/4 z-10"
             initial={{ opacity: 0, scale: 0.8 }}

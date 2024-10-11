@@ -1,0 +1,11 @@
+.work_bg {
+    position: absolute;
+    top: -3%;
+    right: 0;
+    width: 60vh;
+}
+@media (max-width: 700px) {
+    .work_bg {
+        display: none;
+    }
+}

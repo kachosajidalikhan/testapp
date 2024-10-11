@@ -46,7 +46,7 @@ export default () => {
         >
           <div className="relative w-full aspect-square max-w-md mx-auto">
             <img
-              src="/hero_img.PNG"
+              src="https://venulink.org/assets/hero_img.png"
               alt="Drum set"
               className="rounded-full object-cover w-full h-full"
             />
